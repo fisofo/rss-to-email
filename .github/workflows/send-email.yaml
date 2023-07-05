@@ -2,8 +2,9 @@ name: Send email
 
 on:
   schedule:
-    - cron: '0 8 * * 5'
+    - cron: '30 * * * *'
 
+#- cron: '0 8 * * 5'
 # If uncommented run on every push to every branch for easier debugging
 # on: push
 
