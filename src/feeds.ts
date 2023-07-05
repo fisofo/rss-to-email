@@ -35,9 +35,6 @@ export const feeds = [
   // The Oatmeal - Comics, Quizzes, & Stories
   'http://feeds.feedburner.com/oatmealfeed',
 
-  // Dilbert Daily Strip
-  'http://feeds.feedburner.com/DilbertDailyStrip',
-
   // FoxTrot | FoxTrot
   'http://www.foxtrot.com/feed/',
 
