@@ -1,5 +1,5 @@
 name: Send email
-# comment to keep it alive
+# comment to keep it alive!
 on:
   schedule:
     - cron: '0 4 * * *'
