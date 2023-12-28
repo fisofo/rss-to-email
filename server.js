@@ -9,7 +9,7 @@ const cachePath = './cache.json'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
-// Using cache to reload parsed feeds from disk instead of remote
+// Using cache to reload parsed feeds from disk instead of remote.
 // Since every change of the email is a full render it feels wasteful retrieving the RSS
 const getCache = () => {
   try {
