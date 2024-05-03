@@ -2,7 +2,7 @@ export const feeds = [
   // Penny Arcade
   'https://www.penny-arcade.com/feed',
 
-  // Saturday Morning Breakfast Cereal (updated daily)
+  // Saturday Morning Breakfast Cereal
   'http://www.smbc-comics.com/rss.php',
 
   // Existential Comics
