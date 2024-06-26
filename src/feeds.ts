@@ -1,6 +1,6 @@
 export const feeds = [
   // Penny Arcade
-  'https://www.penny-arcade.com/feed',
+  //'https://www.penny-arcade.com/feed',
 
   // Saturday Morning Breakfast Cereal
   'http://www.smbc-comics.com/rss.php',
