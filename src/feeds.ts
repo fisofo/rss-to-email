@@ -42,5 +42,5 @@ export const feeds = [
   'https://www.qwantz.com/rssfeed.php',
 
   // Krebs on Security
-  'https://krebsonsecurity.com/feed',
+  // 'https://krebsonsecurity.com/feed',
 ]
