@@ -41,6 +41,6 @@ export const feeds = [
   // Dinosaur Comics!
   'https://www.qwantz.com/rssfeed.php',
 
-  // Krebs on Security
+  // Krebs on Security 
   // 'https://krebsonsecurity.com/feed',
 ]
