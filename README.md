@@ -1,5 +1,5 @@
 # RSS to Email!
-
+ 
 Stay on top of your favorite RSS feeds - on your own terms. This project allows you to set up custom email updates based on the RSS feeds you specify, all within the comfort of your own Github account.
 
 Say goodbye to constantly checking for updates, and hello to staying informed on your own schedule.
