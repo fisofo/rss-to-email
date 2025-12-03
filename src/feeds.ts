@@ -1,5 +1,5 @@
 export const feeds = [
-  // Penny Arcade
+  // Penny Arcade!
   //'https://www.penny-arcade.com/feed',
 
   // Saturday Morning Breakfast Cereal 
