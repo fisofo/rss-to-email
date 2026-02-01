@@ -3,10 +3,10 @@ export const feeds = [
   //'https://www.penny-arcade.com/feed',
 
   // Saturday Morning Breakfast Cereal 
-  'http://www.smbc-comics.com/rss.php',
+  //'http://www.smbc-comics.com/rss.php',
 
   // Existential Comics
-  'http://existentialcomics.com/rss.xml',
+  //'http://existentialcomics.com/rss.xml',
 
   // Biz & IT – Ars Technica
   'https://arstechnica.com/information-technology/feed/?t=secrets.SUBSCRIPTION_SECRET',
@@ -27,19 +27,19 @@ export const feeds = [
   'https://arstechnica.com/science/feed/?t=secrets.SUBSCRIPTION_SECRET',
 
   // xkcd.com
-  'http://xkcd.com/rss.xml',
+  //'http://xkcd.com/rss.xml',
 
   // Wondermark
-  'http://feeds.feedburner.com/wondermark',
+  //'http://feeds.feedburner.com/wondermark',
 
   // The Oatmeal - Comics, Quizzes, & Stories
-  'http://feeds.feedburner.com/oatmealfeed',
+  //'http://feeds.feedburner.com/oatmealfeed',
 
   // FoxTrot | FoxTrot
-  'http://www.foxtrot.com/feed/',
+  //'http://www.foxtrot.com/feed/',
 
   // Dinosaur Comics!
-  'https://www.qwantz.com/rssfeed.php',
+  //'https://www.qwantz.com/rssfeed.php',
 
   // Krebs on Security 
   // 'https://krebsonsecurity.com/feed',
